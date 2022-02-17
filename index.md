@@ -1,4 +1,3 @@
-# homepage-practice
 # `API実習レポート1`
 
 
